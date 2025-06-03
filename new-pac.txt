@@ -1,0 +1,29 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||githubusercontent.com
+||api.github.com
+||github.com
+||chat.openai.com
+||openai.com
+||yahoo.com
+||htx.com
+||https://pixian.ai
+||ultramobile.com
+||docker.com
+||fiverr.com
+||coinbase.com
+||justmysocks.net
+||privateemail
+||wa.me
+||bsky.app
+||polymarket.com
+||microsoft.com
+||grok.com
+||iheartraves.com
+||x.ai
+||api.telegram.org
+||claude.ai
+||docker.io
+||lgoogle
+||vercel.com
+||upwork.com

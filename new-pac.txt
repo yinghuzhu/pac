@@ -27,3 +27,4 @@
 ||lgoogle
 ||vercel.com
 ||upwork.com
+||perplexity.ai

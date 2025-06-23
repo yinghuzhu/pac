@@ -28,3 +28,4 @@
 ||vercel.com
 ||upwork.com
 ||perplexity.ai
+||supabase.com
